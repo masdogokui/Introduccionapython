@@ -1,3 +1,3 @@
 # Introduccion a python
 
-Bienvenisdos a mio repositorio de python.
+Bienvenidos a mi repositorio de python.
