@@ -9,3 +9,4 @@ Bienvenidos a mi repositorio de python.
 ## Bateria de problemes
 
 - [Bateria 1](bateria1.md)
+- [deberes](deberes.md)
