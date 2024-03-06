@@ -10,3 +10,4 @@ Bienvenidos a mi repositorio de python.
 
 - [Bateria 1](bateria1.md)
 - [deberes](deberes.md)
+- [Diujar_ventana](dibujar_ventana.md)
